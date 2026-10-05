@@ -37,7 +37,7 @@ async def keep_presence_alive():
         activity = discord.Activity(
             type=discord.ActivityType.playing,
             name=".gg/36EAyW5Z4F",
-            details="Read Bio",
+            details="project gamingchair soon...",
             state="Germany",
             application_id=APPLICATION_ID,
             buttons=[
